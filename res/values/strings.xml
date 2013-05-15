@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="page1">page1</string>
+    <string name="page2">page2</string>
+    <string name="page3">page3</string>
+    <string name="text31">城市名称（拼音）：</string>
+    <string name="text32">更新频率：</string>
+    <string name="text33">秒/次</string>
+    <string name="text34">提供短信服务</string>
+    <string name="text35">记录短信服务数据信息</string>
+    <string name="text36">短信服务关键字</string>
+    <string name="checkyes">是</string>
+    <string name="save">保存</string>
+
+</resources>
